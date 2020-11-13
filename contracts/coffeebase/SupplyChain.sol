@@ -304,7 +304,7 @@ contract SupplyChain is
         items[_upc].consumerID = msg.sender;
 
         // Emit the appropriate event
-        Purchased(_upc);
+        emit Purchased(_upc);
     }
 
     // Define a function 'fetchItemBufferOne' that fetches the data
