@@ -22,19 +22,23 @@ Solidity Version: 0.4.24
 
 ### Activity Diagram
 
-![Activity Diagram](design/Activity Diagram.png)
+[link]
+![Activity Diagram](design/Activity%20Diagram.png)
 
 ### Sequence Diagram
 
-![Sequence Diagram](design/Sequence Diagram.png)
+[link]
+![Sequence Diagram](design/Sequence%20Diagram.png)
 
 ### State Diagram
 
-![State Diagram](design/State Diagram.png)
+[link]
+![State Diagram](design/State%20Diagram.png)
 
 ### Data Modelling Diagram
 
-![Data Modelling Diagram](design/Data Modelling Diagram.png)
+[link]
+![Data Modelling Diagram](design/Data%20Modelling%20Diagram.png)
 
 ## Requirement 2: Project write-up - Libraries
 
