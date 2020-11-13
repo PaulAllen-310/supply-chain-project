@@ -1,0 +1,23 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "Account: 0x127b1291C1120dB198633dDc2dC61Ce75e096224 SupplyChain Contract Address: 0xF13e1EB04ffE233C56A2b0A3DC6cfa4D602f5752 ConsumerRole Contract Address: 0x11E6D1fde8a4Fd48333ec75C9e971A4f8A90399c RetailerRole Contract Address: 0xC79893CE404b8A2b8e67a40171086B23Ebc1dF11 DistributorRole Contract Address: 0x8bf9b2596E08f349eD38a4de5ABe736e89d9DA0c FarmerRole Contract Address: 0x1B1cB59907A1625B63eD0dE485464a237234Caf9",
+  "private": true,
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "truffle-assertions": "^0.9.2",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.0.0-beta.37"
+  },
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
